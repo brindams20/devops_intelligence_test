@@ -1,2 +1,2 @@
 def get_message():
-  return "hello from devops intelligence"
+  return "hello from senior"
